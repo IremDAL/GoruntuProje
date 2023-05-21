@@ -27,16 +27,16 @@ Her göz, gözün sol köşesinden başlayan (sanki kişiye bakıyormuşsunuz gi
 Eye Thresh hold oranı 0.25'ten küçükse ve calculate_blink_duration > Blink_Duration'den büyükse uyarı oluşturur.
 
 ### İlişki
-<img src="https://github.com/mehmetuner/goruntuproje/blob/main/fotograflar/03-driver-drowsiness-detection-EAR-points.png" alt="alt text" width="320" height="180">
-<img src="https://github.com/mehmetuner/goruntuproje/blob/main/fotograflar/12-driver-drowsiness-detection-AVG_EAR-equation.png" alt="alt text" width="320" height="180">
+<img src="https://github.com/IremDAL/goruntuproje/blob/main/fotograflar/03-driver-drowsiness-detection-EAR-points.png" alt="alt text" width="320" height="180">
+<img src="https://github.com/IremDAL/goruntuproje/blob/main/fotograflar/12-driver-drowsiness-detection-AVG_EAR-equation.png" alt="alt text" width="320" height="180">
 
 ### Özetle
 
-<img src="https://github.com/mehmetuner/goruntuproje/blob/main/fotograflar/eye3.jpg" alt="alt text" width="320" height="180">
+<img src="https://github.com/IremDAL/goruntuproje/blob/main/fotograflar/eye3.jpg" alt="alt text" width="320" height="180">
 
 ### Sonuç
 
-![Drowsiness Detection Demo](https://github.com/mehmetuner/goruntuproje/blob/main/fotograflar/Uykulu_Uykusuz.gif)
+![Drowsiness Detection Demo](https://github.com/IremDAL/goruntuproje/blob/main/fotograflar/Uykulu_Uykusuz.gif)
 
 
 ### Mehmet Üner Aysel İrem Nur Dal
