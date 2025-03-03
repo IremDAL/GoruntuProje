@@ -36,7 +36,7 @@ Eye Thresh hold oranı 0.25'ten küçükse ve calculate_blink_duration > Blink_D
 
 ### Sonuç
 ![Drowsiness Detection Demo](https://github.com/IremDAL/goruntuproje/blob/main/fotograflar/Uykulu_Uykusuz1.gif) <br>
-![Drowsiness Detection Demo](https://github.com/IremDAL/goruntuproje/blob/main/fotograflar/Uykulu_Uykusuz.gif)
 
 
-### Mehmet Üner Aysel İrem Nur Dal
+
+
